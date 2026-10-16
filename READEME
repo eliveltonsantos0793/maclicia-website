@@ -1,0 +1,73 @@
+# Maclicia Nail Infinity Beauty
+
+Website institucional desenvolvido com HTML5, CSS3 e JavaScript para apresentar os serviços da Nail Infinity Beauty, valorizar sua identidade visual e facilitar o contato com clientes.
+
+## Tecnologias utilizadas
+
+- HTML5 — estrutura e conteúdo das páginas.
+- CSS3 — estilização, layout e responsividade.
+- JavaScript — interações e funcionalidades da interface.
+- Google Fonts — recursos tipográficos.
+- Unsplash — imagens ilustrativas externas.
+
+## Estrutura do projeto
+
+```text
+website/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── assets/
+│   └── images/
+│       ├── logo-header.jpeg
+│       └── logo-hero.jpeg
+|
+└── README.md
+```
+
+## Funcionalidades
+
+- Página inicial com apresentação do salão.
+- Seção de serviços e preços.
+- Seção sobre o negócio.
+- Galeria de imagens.
+- Seção de contato.
+- Botões para iniciar conversas pelo WhatsApp.
+- Menu adaptado para dispositivos móveis.
+- Animações de entrada e navegação ativa.
+- Atualização automática do ano no rodapé.
+
+## Como executar
+
+1. Baixe e extraia os arquivos do projeto.
+2. Abra a pasta no Visual Studio Code.
+3. Abra o arquivo `index.html` no navegador.
+
+Para facilitar o desenvolvimento, você pode utilizar a extensão Live Server.
+
+## Como personalizar
+
+**HTML:** edite `index.html` para modificar textos, serviços, preços e links.
+
+**CSS:** edite `css/style.css` para alterar cores, fontes, espaçamentos e layout.
+
+**JavaScript:** edite `js/script.js` para modificar as interações da interface.
+
+**Imagens:** substitua os arquivos da pasta `assets/images/` e atualize os caminhos no HTML quando necessário.
+
+## Antes de publicar
+
+- Confirme se o número de WhatsApp está correto.
+- Revise os preços e as informações comerciais.
+- Substitua imagens ilustrativas por fotografias autorizadas do salão, se desejar.
+- Teste os links, botões e a navegação em celulares e computadores.
+
+## Observação sobre agendamentos
+
+O site direciona o cliente para uma conversa pelo WhatsApp. Ele não realiza agendamentos automaticamente nem possui integração com uma agenda online.
+
+## Objetivo do projeto
+
+Criar uma presença digital profissional para a Nail Infinity Beauty, combinando identidade visual, apresentação de serviços e facilidade de contato com clientes.
